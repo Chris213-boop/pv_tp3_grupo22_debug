@@ -1,6 +1,7 @@
 //Agregar aquí todos los import necesarios.
 import React from "react";
 import Arreglo2 from "./Arreglo2";
+import Productos from "./Arreglo1";
 
 function App2(){
   const nombreMateria = "Programacion Visual";
@@ -11,6 +12,7 @@ function App2(){
       <h2>Somos el grupo 22</h2>
       <h3>En la materia {nombreMateria}</h3>
       <Arreglo2 />
+      <Productos/>
     </div>
   );
 }
