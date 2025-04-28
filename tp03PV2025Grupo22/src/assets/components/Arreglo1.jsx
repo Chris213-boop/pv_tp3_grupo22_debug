@@ -6,9 +6,10 @@ const productos = [
   { id: 2, nombre: 'Pantalón', precio: 40 },
   { id: 3, nombre: 'Remera', precio:20  },
   { id: 4, nombre: 'Buzos', precio: 60 },
-  { id: 5, nombre: 'Camperas', precio: 65 },
-  { id: 6, nombre: 'Gorras', precio: 15 },
-  { id: 7, nombre: 'zapatos', precio: 60 },
+  { id: 5, nombre: 'zapatos', precio: 59 },
+  { id: 6, nombre: 'Camperas', precio: 65 },
+  { id: 7, nombre: 'Gorras', precio: 15 },
+  
  
 ];
 
