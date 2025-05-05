@@ -1,4 +1,4 @@
-# React + Vite
+# PROFESOR LEA EL ULTIMO MENSAJE
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -17,5 +17,6 @@ Lamentamos los inconvenientes en la presentación final y asumimos la responsabi
 Nos mantendremos en contacto con usted para compartirle el enlace al nuevo repositorio con los problemas corregidos, con el objetivo de reflejar correctamente el trabajo realizado por el equipo. Muchas Gracias.
 */
 
+/*ULTIMO MENSAJE*/
 /*  ATENCION repositorio cambiado por inconvenientes en la incorporacion de los commits NUEVO REPOSITORIO : https://github.com/Chris213-boop/pv_tp3_grupo22.git */
 /* Ese nuevo link se actualizó en la entrega del tp3 en el aula*/
