@@ -16,3 +16,6 @@ If you are developing a production application, we recommend using TypeScript wi
 Lamentamos los inconvenientes en la presentación final y asumimos la responsabilidad grupal por no haber alcanzado una entrega completamente organizada. Aun así, el trabajo contiene la mayoría de los puntos solicitados.
 Nos mantendremos en contacto con usted para compartirle el enlace al nuevo repositorio con los problemas corregidos, con el objetivo de reflejar correctamente el trabajo realizado por el equipo. Muchas Gracias.
 */
+
+/*  ATENCION repositorio cambiado por inconvenientes en la incorporacion de los commits NUEVO REPOSITORIO : https://github.com/Chris213-boop/pv_tp3_grupo22.git */
+/* Ese nuevo link se actualizó en la entrega del tp3 en el aula*/
